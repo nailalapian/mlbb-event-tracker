@@ -229,3 +229,49 @@ transform:translateY(0);
 }
 
 }
+
+.container{
+
+    max-width:700px;
+
+}
+
+.status-card{
+
+    background:rgba(255,255,255,.08);
+
+    backdrop-filter:blur(15px);
+
+    border-radius:20px;
+
+    padding:20px;
+
+    text-align:center;
+
+    border:1px solid rgba(255,255,255,.15);
+
+}
+
+.status-card h5{
+
+    color:#FFD54F;
+
+}
+
+.status-card h2{
+
+    font-weight:bold;
+
+}
+
+.glass{
+
+    background:rgba(255,255,255,.08);
+
+    padding:25px;
+
+    border-radius:20px;
+
+    border:1px solid rgba(255,255,255,.15);
+
+}
